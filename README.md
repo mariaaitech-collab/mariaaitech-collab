@@ -168,10 +168,10 @@ Type a topic, pick a platform, and **Google Gemini writes a platform-ready post*
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mariaaitech-collab&show_icons=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=FF2E97&icon_color=00D4FF&text_color=E6EDF3&ring_color=8B5CF6&count_private=true&include_all_commits=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mariaaitech-collab&show_icons=true&rank_icon=github&border_color=8B5CF6&border_radius=12&bg_color=0D1117&title_color=FF2E97&icon_color=00D4FF&text_color=E6EDF3&ring_color=8B5CF6" alt="GitHub stats" />
 <img height="180" src="./assets/top-languages.svg" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=mariaaitech-collab&hide_border=true&background=0D1117&stroke=8B5CF6&ring=FF2E97&fire=FF2E97&currStreakNum=FFFFFF&currStreakLabel=00D4FF&sideNums=FFFFFF&sideLabels=8B5CF6&dates=8B949E" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=mariaaitech-collab&border=8B5CF6&border_radius=12&background=0D1117&stroke=8B5CF6&ring=FF2E97&fire=FF2E97&currStreakNum=FFFFFF&currStreakLabel=00D4FF&sideNums=FFFFFF&sideLabels=8B5CF6&dates=8B949E" alt="GitHub streak" />
 
 </div>
 
